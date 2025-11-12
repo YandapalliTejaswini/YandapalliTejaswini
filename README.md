@@ -1,5 +1,4 @@
-# Tejaswini-Profile-
-Hello...This is my profile
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:06b6d4,50:3b82f6,100:9333ea&text=Yandapalli%20Tejaswini%20&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
 </p>
