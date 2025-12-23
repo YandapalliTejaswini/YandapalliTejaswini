@@ -55,7 +55,7 @@
 
 ## 🚀 Featured Projects
 
-### 💼 [Portfolio Website](https://github.com/YandapalliTejaswini/Portfolio)
+### 💼 [Portfolio Website](https://porfolio30-tejaswini.onrender.com)
 > A personal portfolio website showcasing my projects, skills, and contact details.  
 **Tech Stack:** `HTML` `CSS` `JavaScript`  
 - Responsive design and interactive UI  
