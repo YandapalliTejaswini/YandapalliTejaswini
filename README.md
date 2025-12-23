@@ -16,7 +16,7 @@
 - 💡 Passionate about **Web Development**, **Programming**.  
 - 🌱 Currently learning **React.js**, **Advanced Java**, and **Database Management Systems**.  
 - 💼 Aspiring **Frontend-Developer**.  
-- 🌐 Check out my portfolio: [Portfolio Website](http://127.0.0.1:5500/Portfolio.html)  
+- 🌐 Check out my portfolio: [Portfolio Website](https://portfolio30-tejaswini.onrender.com/)  
 - 📫 Reach me at: **reddytejaswini939@gmail.com**
 
 ---
