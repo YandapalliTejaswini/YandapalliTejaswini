@@ -97,16 +97,26 @@ Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal
 ---
 
 ## 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YandapalliTejaswini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=38BDF8&text_color=ffffff" width="48%" />
 
-  <!-- FIXED STREAK (Working URL) -->
-  <img src="https://streak-stats.demolab.com?user=YandapalliTejaswini&theme=tokyonight&hide_border=true&background=0D1117&ring=7DD3FC&fire=38BDF8&currStreakLabel=ffffff" width="48%" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YandapalliTejaswini&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YandapalliTejaswini&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandapalliTejaswini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=ffffff" width="40%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandapalliTejaswini&layout=compact&theme=tokyonight&hide_border=true"
+    width="40%"
+  />
 </p>
+
 
 
 ---
