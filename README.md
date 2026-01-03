@@ -63,9 +63,9 @@
 
 ---
 
-### 🎓 [Student Management System](https://github.com/YandapalliTejaswini/Student-Management-System)
+### 🎓 [Student Management System](https://student-management-system-crud.onrender.com/)
 > A CRUD-based Java application to manage student records efficiently.  
-**Tech Stack:** `Java` `MySQL`  
+**Tech Stack:** `Java` `MySQL` `HTML` `CSS3` `BootStrap` `python` `flaskframework` 
 - Add, update, delete, and search student data  
 - User-friendly console interface  
 
