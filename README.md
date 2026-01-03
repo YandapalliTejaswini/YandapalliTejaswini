@@ -99,23 +99,18 @@ Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YandapalliTejaswini&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YandapalliTejaswini&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YandapalliTejaswini&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YandapalliTejaswini&theme=dark" width="48%" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandapalliTejaswini&layout=compact&theme=tokyonight&hide_border=true"
-    width="40%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandapalliTejaswini&layout=compact&theme=dark" width="40%" />
 </p>
+
+
+  
+
+
 
 
 
