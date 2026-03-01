@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&size=25&lines=Third+Year+CSE+(Data+Science)+Student;Frontend-Developer;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=FFC300&center=true&vCenter=true&width=600&size=25&lines=Third+Year+CSE+(Data+Science)+Student;Frontend-Developer;Machine-Learning-Enthusiast;Building+Real-World+AI+Projects;Open+to+Collaborations+%26+Internships;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
@@ -13,10 +13,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (Data Science)** at **Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal**.  
-- 💡 Passionate about **Web Development**, **Programming**.  
-- 🌱 Currently learning **React.js**, **Advanced Java**, and **Database Management Systems**.  
-- 💼 Aspiring **Frontend-Developer**.  
-- 🌐 Check out my portfolio: [Portfolio Website](https://portfolio30-tejaswini.onrender.com/)  
+- 💡 Passionate about **Web Development**, **Programming**,  **Machine-Learning**  
+- 🌱 Currently learning **React.js**, **DSA Java**, and **Database Management Systems**.  
+- 💼 Aspiring **Frontend-Developer**,  **Data-Analyst**, 
 - 📫 Reach me at: **reddytejaswini939@gmail.com**
 
 ---
@@ -55,19 +54,34 @@
 
 ## 🚀 Featured Projects
 
-### 💼 [Portfolio Website](https://portfolio30-tejaswini.onrender.com)
-> A personal portfolio website showcasing my projects, skills, and contact details.  
-**Tech Stack:** `HTML` `CSS` `JavaScript`  
-- Responsive design and interactive UI  
-- Integrated GitHub & LinkedIn links  
+### 💼 [Telecommuncications-Network Outage Prediction](https://telecommunication-network-outage-prediction.streamlit.app/)
+**Tech Stack:**  `Python`  `Machine Learning` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Streamlit`
+
+– Simulated telecom network dataset representing real-world network conditions .
+
+– Performed data preprocessing and feature engineering for model training
+
+– Developed classification models to predict network outage risk
+
+– Identified key outage triggers using feature importance analysis
+
+– Evaluated model performance using accuracy and validation metrics
+
+– Built an interactive dashboard for visualization and monitoring
 
 ---
 
-### 🎓 [Student Management System](https://student-management-system-crud.onrender.com/)
-> A CRUD-based Java application to manage student records efficiently.  
-**Tech Stack:** `Java` `MySQL` `HTML` `CSS3` `BootStrap` `python` `flaskframework` 
-- Add, update, delete, and search student data  
-- User-friendly console interface  
+### 🎓 [Customer Churn Prediction & Analytics](https://customer-churn-prediction-analytics.streamlit.app/)
+**Tech Stack:** `Python` `Machine Learning` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Streamlit`
+– Developed an end-to-end machine learning system using Random Forest Classifier for telecom churn prediction.
+
+– Performed data preprocessing and feature engineering using ColumnTransformer pipelines.
+
+– Evaluated model performance using Accuracy, Precision, Recall, and F1-score achieving 79.6% accuracy.
+
+– Built an interactive Streamlit dashboard for real-time churn prediction and analytics visualization.
+
+– Implemented probability-based churn risk analysis for data-driven business decisions. 
 
 ---
 
