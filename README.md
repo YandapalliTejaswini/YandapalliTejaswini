@@ -116,7 +116,7 @@
 
 ### 📡 Telecom Network Outage Prediction
 
-📌 [GitHub Repo](YOUR_GITHUB_REPO_LINK) · 🌐 [Live Demo](https://telecommunication-network-outage-prediction.streamlit.app/)
+📌 [GitHub Repo](https://github.com/YandapalliTejaswini/Telecommunications-Network-Outage-Prediction-System)
 
 > An end-to-end machine learning application that predicts telecom network outage risk and provides insights into factors contributing to network failures.
 
@@ -133,44 +133,22 @@
 
 ---
 
-### 📊 Customer Churn Prediction & Analytics
+### 💡 MCQ Wizard – AI-Powered Question Generator
 
-📌 [GitHub Repo](YOUR_GITHUB_REPO_LINK) · 🌐 [Live Demo](https://customer-churn-prediction-analytics.streamlit.app/)
+📌 [GitHub Repo](https://github.com/YandapalliTejaswini/MCQ-Generator-Web-App) 
 
-> An end-to-end machine learning application that predicts customer churn and provides probability-based insights for identifying customers at risk of leaving.
+> An AI-powered application that automatically generates multiple-choice questions from uploaded educational documents, helping students and educators create assessments efficiently.
 
-- 👥 Developed a Random Forest classification model for telecom customer churn prediction
-- 🧹 Implemented data preprocessing and feature engineering using `ColumnTransformer`
-- ⚙️ Built a structured machine learning pipeline for consistent preprocessing and prediction
-- 📊 Evaluated the model using Accuracy, Precision, Recall, and F1-score
-- 🎯 Achieved approximately **79.6% accuracy** on the evaluated dataset
-- 📉 Implemented probability-based churn risk analysis for customer-level insights
-- 🖥️ Developed an interactive Streamlit dashboard for prediction and analytics visualization
+- 📄 Supports uploading **PDF and DOCX documents** as input
+- 🧠 Uses **Gemini API** to analyze document content and generate relevant MCQs
+- 🎯 Automatically categorizes questions into **Easy, Medium, and Hard** difficulty levels
+- ⚡ Generates questions from document content with minimal manual effort
+- 🎓 Designed for **students, teachers, and e-learning platforms**
+- 🖥️ Provides an interactive and user-friendly interface for generating assessments
 
-🛠️ **Tech Stack:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Machine Learning` · `Streamlit`
+🛠️ **Tech Stack:** `React.js` · `FastAPI` · `Tailwind CSS` · `Gemini API`
 
-📈 **Outcome:** Built a deployable churn prediction system that combines machine learning predictions with interactive business analytics.
-
----
-
-### 🪙 Gold Price Prediction
-
-📌 [GitHub Repo](YOUR_GITHUB_REPO_LINK)
-
-> A machine learning project focused on analyzing historical market data and predicting gold prices using data preprocessing, feature engineering, and regression techniques.
-
-- 📊 Collected and analyzed historical gold price-related data
-- 🧹 Performed data preprocessing and exploratory data analysis
-- 🔧 Applied feature engineering to prepare meaningful input features
-- 🤖 Developed and trained machine learning regression models for price prediction
-- 📈 Evaluated model performance using appropriate regression metrics
-- 📊 Visualized historical trends and model predictions to understand price behavior
-
-🛠️ **Tech Stack:** `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Machine Learning`
-
-📈 **Outcome:** Developed an end-to-end machine learning workflow for analyzing historical gold price trends and generating predictive insights.
-
---- 
+📈 **Outcome:** Automated the MCQ creation process from educational documents, significantly reducing the time and manual effort required to prepare assessments.
 
 ---
 
@@ -182,20 +160,6 @@
   <a href="https://www.hackerrank.com/profile/reddytejaswini939" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://www.codechef.com/users/yandapalli_tejaswini" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
-
-
----
-
-## 🏆 Certifications & Achievements
-- 🥇 **Oracle Certified Foundations Associate — Oracle Cloud Infrastructure (2025)**  
-- 🎖 **AICTE–EDU Skills Internship — RGMCET, Nandyal**
-
----
-
-## 🎓 Education
-**Bachelor of Technology — Computer Science & Engineering (Data Science)**  
-Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal  
-📅 *2023 – 2027* | 🎯 *CGPA 8.2*
 
 ---
 
@@ -210,24 +174,33 @@ Rajeev Gandhi Memorial College of Engineering and Technology, Nandyal
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YandapalliTejaswini&layout=compact&theme=dark" width="40%" />
 </p>
 
+---
+## 🎯 Open To
 
-  
-
-
-
-
+- 📊 Data Science & Data Analytics Internships
+- 🤖 Machine Learning / AI Internships
+- 💻 Software Development Internships
+- 🐍 Python-based Development & Data-driven Applications
+- 🤝 Open-source Collaborations
 
 ---
 
 ## 📫 Let's Connect
 
-- <p> <a href="https://www.linkedin.com/in/tejaswini-reddy-68b836293/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> </p> 
-- <a href="https://github.com/YandapalliTejaswini" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> </p>
-
-
+<p>
+  <a href="https://github.com/YandapalliTejaswini">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yandapalli-tejaswini-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yandapallitejaswinireddy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=160&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 </p>
