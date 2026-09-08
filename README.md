@@ -133,22 +133,23 @@
 
 ---
 
-### 💡 MCQ Wizard – AI-Powered Question Generator
+### 🧠 MCQ Generator – NLP-Based Question Generation
 
-📌 [GitHub Repo](https://github.com/YandapalliTejaswini/MCQ-Generator-Web-App) 
+📌 [GitHub Repo](https://github.com/YandapalliTejaswini/MCQ-Generator-Web-App)
 
-> An AI-powered application that automatically generates multiple-choice questions from uploaded educational documents, helping students and educators create assessments efficiently.
+> A web-based NLP application that automatically generates multiple-choice questions from uploaded PDF documents or custom text using natural language processing techniques.
 
-- 📄 Supports uploading **PDF and DOCX documents** as input
-- 🧠 Uses **Gemini API** to analyze document content and generate relevant MCQs
-- 🎯 Automatically categorizes questions into **Easy, Medium, and Hard** difficulty levels
-- ⚡ Generates questions from document content with minimal manual effort
-- 🎓 Designed for **students, teachers, and e-learning platforms**
-- 🖥️ Provides an interactive and user-friendly interface for generating assessments
+- 📄 Allows users to upload **PDF files** or enter custom text as input
+- 🔢 Supports generating **1–20 MCQs** based on the provided content
+- 🧠 Uses **spaCy NLP** to identify relevant nouns and keywords from text
+- 🎯 Automatically generates question blanks and creates **distractor options**
+- 📝 Presents generated questions through an interactive and responsive web interface
+- ✅ Provides **instant feedback** when users select an answer
+- ⚡ Processes uploaded documents and generates MCQs dynamically through a FastAPI backend
 
-🛠️ **Tech Stack:** `React.js` · `FastAPI` · `Tailwind CSS` · `Gemini API`
+🛠️ **Tech Stack:** `Python` · `FastAPI` · `spaCy` · `PyPDF2` · `HTML` · `Bootstrap 5` · `JavaScript` · `Jinja2`
 
-📈 **Outcome:** Automated the MCQ creation process from educational documents, significantly reducing the time and manual effort required to prepare assessments.
+📈 **Outcome:** Built an automated NLP-based assessment tool that converts educational content into interactive MCQs, reducing the manual effort required to create basic practice questions.
 
 ---
 
